@@ -103,6 +103,12 @@ To set up the environment and get started with training the YOLOv4-tiny model, f
 
     imShow('predictions.jpg')
     ```
+    
+## process.py
+The `process.py` script is used to split your dataset into training and testing sets. It reads images from the specified directory, and based on the specified percentage, it creates `train.txt` and `test.txt` files.
+
+## yolov4-tiny-custom.cfg
+The `yolov4-tiny-custom.cfg` file is a configuration file for the YOLOv4-tiny model. It defines the network architecture, training parameters, and other settings needed to train and run the model on your custom dataset. You will need to upload this file to the specified directory for training.
 
 ## Results
 Include any relevant images, charts, or metrics that demonstrate the performance of your trained model.
