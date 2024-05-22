@@ -112,7 +112,7 @@ Include any relevant images, charts, or metrics that demonstrate the performance
 - [Swimming Pool and Car Detection Dataset](https://www.kaggle.com/datasets/kbhartiya83/swimming-pool-and-car-detection)
 - [Car and Swimming Pool Satellite Imagery](https://www.kaggle.com/datasets/tekbahadurkshetri/car-and-swimming-pool-satellite-imagery)
 - [YOLOv4-tiny Paper](https://arxiv.org/abs/2004.10934)
-- [Colab Notebook for Training YOLOv4](https://colab.research.google.com/drive/1S6xZATUmcS3eHZtFmGBnu69v90L-gg8A?usp=sharing)
+- [Colab Notebook for Training YOLOv4](https://colab.research.google.com/drive/1Sb2iQa5c-yExIkYYFR9E2kDO9xztVTyd?usp=sharing)
 
 ## process.py
 ```python
